@@ -1,6 +1,7 @@
 <div align="center">
     <h2>sharkycanvas</h2>
     <h4>Easily create Discord.js rank, welcome and goodbye images.</h4>
+    <h5>npm i @plaindevelopment/sharkycanvas</h5>
     <p>This is not something that will not be updated. This was made for the bot "Sharky" and any issues are not for me to fix.</p>
 </div>
 <br>
@@ -12,11 +13,12 @@
 
 ### Examples
 ```js
-// Level/Rank Card
-const canvas = require("sharkycanvas"),
+const canvas = require("npm i @plaindevelopment/sharkycanvas"),
 rankCardCanvas = new canvas.RankCard(),
 welcomeCardCanvas = new canvas.Welcome(),
 goodbyeCardCanvas = new canvas.Goodbye();
+
+// Level/Rank Card
 let image = await rankCardCanvas
     .setAvatar("url") // Avatar image URL
     .setXP("current", 0) // Current XP
