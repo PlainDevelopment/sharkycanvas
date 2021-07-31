@@ -13,7 +13,7 @@
 
 ### Examples
 ```js
-const canvas = require("npm i @plaindevelopment/sharkycanvas"),
+const canvas = require("@plaindevelopment/sharkycanvas"),
 rankCardCanvas = new canvas.RankCard(),
 welcomeCardCanvas = new canvas.Welcome(),
 goodbyeCardCanvas = new canvas.Goodbye();
