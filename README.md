@@ -4,7 +4,7 @@
     <p>This is not something that will not be updated. This was made for the bot "Sharky" and any issues are not for me to fix.</p>
 </div>
 <br>
-The following are required to run this.
+### Dependancies
 ```
 npm i fs
 npm i canvas
