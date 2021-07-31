@@ -4,10 +4,9 @@
     <p>This is not something that will not be updated. This was made for the bot "Sharky" and any issues are not for me to fix.</p>
 </div>
 <br>
-###
 ### Dependancies
-- fs
-- canvas
+fs
+canvas
 
 ### Examples
 ```js
