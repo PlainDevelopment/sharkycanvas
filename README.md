@@ -5,8 +5,10 @@
 </div>
 <br>
 The following are required to run this.
-`npm i fs` - fs
-`npm i canvas` - canvas
+```
+npm i fs
+npm i canvas
+```
 
 ### Examples
 ```js
