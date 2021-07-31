@@ -5,8 +5,9 @@
 </div>
 <br>
 ### Dependancies
-fs
-canvas
+<br>
+- fs
+- canvas
 
 ### Examples
 ```js
