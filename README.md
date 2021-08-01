@@ -28,6 +28,7 @@ let image = await rankCardCanvas
     .setRankName("Default") // Special name for that level?
     .setUsername("Susan") // Username
     .setBackground("url") // Background image url
+	.setFooter("{count}th Member") // Bottom Left Text - For membercount do {count}
     
 // Welcome Card
 let image = await welcomeCardCanvas
